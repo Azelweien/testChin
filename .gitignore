@@ -1,1 +1,26 @@
-pppppppppppppppppppppppppppppppppppppppppppdsgdgg
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Azelweien/testChin/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Azelweien/testChin/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Azelweien/testChin/commits/master.atom"/>
+  <title>Recent Commits to testChin:master</title>
+  <updated>2013-04-16T02:21:36-07:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e4e34858f8bfe64c050467762a6f895d11d56f0e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azelweien/testChin/commit/e4e34858f8bfe64c050467762a6f895d11d56f0e"/>
+    <title>
+        Create .gitignore
+    </title>
+    <updated>2013-04-16T02:21:36-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/b1975c5fca36e1acb71e3b38e4083aaa?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+    <author>
+      <name>iro18</name>
+      <uri>https://github.com/iro18</uri>
+    </author>
+    <content type="html">
+      &lt;pre>+ .gitignore
+&lt;/pre>
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Create .gitignore&lt;/pre>
+    </content>
+  </entry>
+</feed>
